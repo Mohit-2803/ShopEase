@@ -15,7 +15,7 @@ This is a full-stack ecommerce platform inspired by Amazon. The project is curre
 - **Other Tools:** ESLint, Firebase (for authentication/other services), Nodemailer for email notifications
 
 ## Project Structure
-
+```
 Ecommerce/
 ├─ client/
 │ ├─ .env
@@ -165,7 +165,7 @@ Ecommerce/
 │ └─ userRoutes.js
 ├─ server.js
 └─ service-account-key.json
-
+```
 ## Setup & Installation
 
 ### Prerequisites
